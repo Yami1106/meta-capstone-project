@@ -1,14 +1,11 @@
 <div align="center">
 
-<pre>
-╔═══════════════════════════════╗
-║     💻  meta-capstone-project  💻     ║
-╚═══════════════════════════════╝
-</pre>
+# Meta Front-End Developer Capstone
 
-## Project Repository
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
 
-
+*Capstone project for the Meta Front-End Developer Professional Certificate — a fully functional, accessible web application.*
 
 </div>
 
@@ -16,27 +13,26 @@
 
 ## About
 
-A Python project repository. See the source code for details.
+Final capstone for the Meta / Coursera Front-End Developer certificate programme. Demonstrates proficiency in React, component architecture, accessibility standards, and UX principles.
 
 ---
 
 ## Features
 
-- See source code for details
+- React component-based architecture
+- Responsive layout (mobile + desktop)
+- Accessible design (WCAG compliance)
+- Form validation and user interaction
+- Unit testing with Jest
 
 ---
 
-## Tech Stack
+## Tech stack
 
-_See source_
-
----
-
-## Author
-
-**Ashish (Yami1106)**
-[GitHub](https://github.com/Yami1106) · [Portfolio](https://yamiportfolio.netlify.app/)
+`JavaScript` · `React` · `HTML5` · `CSS3` · `Jest`
 
 ---
 
-*Generated with [Automate_contribution](https://github.com/Yami1106/Automate_contribution)*
+<div align="center">
+<a href="https://github.com/Yami1106">Ashish Sukumar</a>
+</div>
